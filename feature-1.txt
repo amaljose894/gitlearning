@@ -1,4 +1,2 @@
 firstin feature shipped: in two files
 chnged everything
-
-changes made as per website revamp
